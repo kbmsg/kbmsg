@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Now Playing** on Spotify
+<a href="https://open.spotify.com/playlist/0sAAPUVuETkMk94aFqrMls">
+</a>
